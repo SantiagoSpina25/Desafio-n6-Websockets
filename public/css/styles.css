@@ -1,0 +1,16 @@
+img{
+    max-width: 100px;
+}
+
+.nombreUsuario{
+    color: blue;
+}
+
+.fechaMsj{
+    color: brown;
+}
+
+.msjUsuario{
+    color: green;
+    font-style: italic;
+}
